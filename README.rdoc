@@ -3,8 +3,10 @@
 OpenCounter helps entrepreneurs navigate the regulatory jungle they face when
 starting a business.
 
-A joint project of the City of Santa Cruz, CA and Code for America.
+Orgnially created as a joint project of the City of Santa Cruz, CA and Code for America.
 
+This Master-Generic branch is for anyone to use to as a framework to implementing 
+an online permitting system for their city created by Code For Houston.
 == The Story Behind OpenCounter
 
 The city of Santa Cruz wants to encourage folks to start local businesses, which
